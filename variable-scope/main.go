@@ -5,7 +5,7 @@ import "fmt"
 func main() {
 
 	sugar := 2
-
+	sugar = 4
 	// Anonymous function
 	coffeeBanao := func() {
 		fmt.Println("Making coffee...")
